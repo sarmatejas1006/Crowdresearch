@@ -1,0 +1,76 @@
+.nav {
+background-image:url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHezqypXXNutxmw0e1dM7lTiF9JuV--81g3xkpMTZG0OcpIEuG');
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 14px 10px;
+  font-family: Georgia;
+  text-transform: uppercase;
+  
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://p1.pichost.me/i/5/1282860.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Comic Sans MS;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #ffffff;
+  font-size: 69px;  
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 30px;
+  color: #fff;
+}
+
+.learn-more {
+  background-image:url('http://p1.pichost.me/i/5/1282860.jpg');
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.learn-more a {
+  color: #5d94f2;
+}
+
+.learn-more p {
+  color: #F9531E;
+}
+.neighborhood-guides{
+    background-image:url('http://blog.spoongraphics.co.uk/wp-content/uploads/2012/textures/18.jpg');
+    background-image:url('http://blog.spoongraphics.co.uk/wp-content/uploads/2012/textures/18.jpg');
+    border-bottom: 1px solid #dbdbdb;
+    font-family: Georgia;
+	color : #000000;
+    }
+    
+.neghborhood-guides h2{
+	font-weight: bold;
+    }
+    
+.neighborhood-guides p{
+    font-size: 23px;
+    margin-bottom: 13px;
+    }
